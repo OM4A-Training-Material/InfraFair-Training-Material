@@ -84,7 +84,7 @@ Then, the output results should be written in the same folder as the case input.
 
 Once the model finishes, you will see the image below.
 
-![image](doc/Images/Execution.png)
+![image](Execution.png)
 
 ---
 
@@ -108,7 +108,7 @@ Running InfraFair tutorial on <a href="https://www.youtube.com/watch?v=13mpD6cmZ
 
 ### ❓ Need Help?
 
-Check our [Questions & Answers](InfraFair_Q&A) page for common issues and guidance.
+Check our [Questions & Answers](InfraFair_Q&A.pdf) page for common issues and guidance.
 
 For **bugs and feature requests**, please use the `issue tracker <https://github.com/IIT-EnergySystemModels/InfraFair/issues>`_.
 
