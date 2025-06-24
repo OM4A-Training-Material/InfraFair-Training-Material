@@ -112,7 +112,7 @@ Check our [Questions & Answers](InfraFair_Q&A.pdf) page for common issues and gu
 
 For **bugs and feature requests**, please use the `issue tracker <https://github.com/IIT-EnergySystemModels/InfraFair/issues>`_.
 
-Get in touch [@MohElabbas](mohamed.a.eltahir@hotmail.com) 
+Get in touch [@MohElabbas](https://www.iit.comillas.edu/people/mabbas) 
 
 ---
 
